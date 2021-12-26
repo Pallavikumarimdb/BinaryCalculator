@@ -1,0 +1,24 @@
+{
+  "name": "binarycalculator",
+  "version": "1.0.0",
+  "description": "Calculator for Binary values Calculation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pallavikumarimdb/BinaryCalculator.git"
+  },
+  "author": "Pallavi Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pallavikumarimdb/BinaryCalculator/issues"
+  },
+  "homepage": "https://github.com/Pallavikumarimdb/BinaryCalculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
